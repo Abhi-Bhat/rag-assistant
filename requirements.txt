@@ -1,15 +1,11 @@
 
 fastapi==0.135.1
-huggingface_hub==1.7.2
 Jinja2==3.1.6
 langchain==1.2.13
 langchain-chroma==1.1.0
 langchain-community==0.4.1
 langchain-ollama==1.0.1
 langchain-text-splitters==1.1.1
-numpy==2.4.3
 ollama==0.6.1
 pypdf==6.9.1
-transformers==5.3.0
-typer==0.24.1
 uvicorn==0.42.0
