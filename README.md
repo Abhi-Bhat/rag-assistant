@@ -91,8 +91,8 @@ id="x7v9al" http://localhost:8000/docs
 
 ---
 
-## 🧪 Example Query
+## Example Query
 
 id="n3k2pq" "What is deadlock and how can it be prevented?"
 
-👉 The system retrieves relevant sections and generates a context-aware answer.
+ The system retrieves relevant sections and generates a context-aware answer.
